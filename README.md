@@ -7,8 +7,8 @@
 
 ## 👩‍💻 About Me
 
-* 🔭 I’m currently working on: **Django apps, recommender systems, and Tableau stories**
-* 🌱 I’m currently learning: **Deep Learning, Cloud Computing, and UX in AI systems**
+* 🔭 I’m currently working on: **Django apps, machine learning pipelines, and interactive dashboards**
+* 🌱 I’m currently learning: **Advanced Deep Learning, Data Engineering on the Cloud, and AI-driven Product Design**
 * 👯 I’m looking to collaborate on: **ML/DL projects, data visualization dashboards, and AI product ideas**
 * 💬 Ask me about: **Machine Learning, Databases, Django, and turning data into insights**
 * ⚡ Fun fact: I once trained a GAN to create flower images 🌸 — it “invented” flowers that don’t exist in nature!
@@ -53,10 +53,8 @@
 
 ## 🧪 Experience & Leadership
 
-* **Affiliate – WhatsApp Bot Startup (WatsVA)** — Prospecting and selling AI-driven WhatsApp solutions to businesses; supported feature shaping.
+* **Affiliate – WhatsApp Bot Startup** — Prospecting and selling AI-driven WhatsApp solutions to businesses; supported feature shaping.
 * **Math Tutor – Perach Project** — Weekly math tutoring for 4th–6th graders; mentoring and skill reinforcement.
-* **Restaurant Shift Lead** — Managed teams, optimized staffing schedules, and reduced customer wait times ⏱️.
-
 ---
 
 ## 🏆 Achievements
@@ -67,7 +65,7 @@
 
 ## 🎓 Education
 
-**B.Sc. Information Systems Engineering**, Technion — Faculty of Data & Decision Sciences (expected 2026)
+**B.Sc. Information Systems Engineering**, Technion — Faculty of Data & Decision Sciences (expected graduation 2026)
 Specialization: Data & Machine Learning
 
 * **Relevant Coursework**: Introduction to Computer Science (94), Data Structures & Algorithms (81), Operating Systems (84), Machine Learning 1 & 2, Artificial Intelligence (90), C Programming Workshop (100), Database Management (88), Computer Architecture & Operating Systems (85)
